@@ -61,6 +61,3 @@ if option == "Tłumacz na język niemiecki (eng)":
             st.error(f"Wystąpił błąd podczas tłumaczenia tekstu: {e}")
 
 st.write("Numer indeksu: 22488")
-
-st.write('Wrzuć na github')
-st.write('🐞 Udostępnij stworzoną przez siebie aplikację (https://share.streamlit.io) a link prześlij do prowadzącego')
